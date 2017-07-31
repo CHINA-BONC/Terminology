@@ -13,7 +13,11 @@
 > 1. [CityGML](https://github.com/CHINA-BONC/Terminology/blob/master/GIS/CityGML.md)
 > 1. [GeoServer](https://github.com/CHINA-BONC/Terminology/blob/master/GIS/GeoServer.md)
 > 1. [PostGIS](https://github.com/CHINA-BONC/Terminology/blob/master/GIS/PostGIS.md)
-> 1. [横轴墨卡托投影](https://github.com/CHINA-BONC/Terminology/blob/master/GIS/%E6%A8%AA%E8%BD%B4%E5%A2%A8%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1.md)  
+> 1. [墨卡托投影](https://github.com/CHINA-BONC/Terminology/blob/master/GIS/%E6%A8%AA%E8%BD%B4%E5%A2%A8%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1.md)  
+> 1. [DOM 数字正射影像](#)  
+> 1. [DEM 数字高程模型](#)
+> 1. [DRG 数字栅格图](#)
+> 1. [DLG 数字线化图](#)
 
 ### File Formats   
 > 1. [ifc](#)
